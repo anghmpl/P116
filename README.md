@@ -8,3 +8,4 @@
 + **26.01.2026:** New version, counting only data taken between 01.10.2025- 20.11.2025 and 20.01.2026 and wahthever "last night" was date-wise.
 + Sarah Bosman does not have an individual PID, but Eduardo Bañados is on her proposal. He has 2 PIDs for GROND, but uses only one. I put the second one for Sarah, but she is category B, and not scheduled to get time in the most recent schedule from Roland.
 + There is now a separate block for each instrument, if you want to check the numbers against what can be found via the ESO archive. Just change PID and name.
++ **27.01.2026:** Small correction  for the FEROS counts, before dome repair files were counted twice, fixed now.
