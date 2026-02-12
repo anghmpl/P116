@@ -9,3 +9,4 @@
 + Sarah Bosman does not have an individual PID, but Eduardo Bañados is on her proposal. He has 2 PIDs for GROND, but uses only one. I put the second one for Sarah, but she is category B, and not scheduled to get time in the most recent schedule from Roland.
 + There is now a separate block for each instrument, if you want to check the numbers against what can be found via the ESO archive. Just change PID and name.
 + **27.01.2026:** Small correction  for the FEROS counts, before dome repair files were counted twice, fixed now.
++ **12.02.2026:** Replaced the old version with a new one, GROND statistics for Wang and Bañados work. You can check an individual PID with the separate scripts at the end. There is one for WFI, FEROS and GROND. 
