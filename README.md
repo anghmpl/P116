@@ -10,3 +10,4 @@
 + There is now a separate block for each instrument, if you want to check the numbers against what can be found via the ESO archive. Just change PID and name.
 + **27.01.2026:** Small correction  for the FEROS counts, before dome repair files were counted twice, fixed now.
 + **12.02.2026:** Replaced the old version with a new one, GROND statistics for Wang and Bañados work. You can check an individual PID with the separate scripts at the end. There is one for WFI, FEROS and GROND. 
++ **09.03.2026:** Deleted all parts related to GROND, still working on it.
